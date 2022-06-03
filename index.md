@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Lab 4
 
-You can use the [editor on GitHub](https://github.com/sierrabakerr/cit281-lab4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[RETURN TO HOMEPAGE](https://sierrabakerr.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Lab goals and outcomes:
 
-### Markdown
+Part 1: Create initial Fastify Node.js web server
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Part 2: Initialize as a Node.js project folder using Node Package Manager (npm)
 
-```markdown
-Syntax highlighted code block
+Part 3: Add Fastify to project using npm, and test using Visual Studio Code (VSCode)
 
-# Header 1
-## Header 2
-### Header 3
+Part 4: Add git repo, exclude node_modules folder from git, make commits
 
-- Bulleted
-- List
+Part 5: Fix MIME error, test, and commit
 
-1. Numbered
-2. List
+Part 6: Add a second route with query parameters, test, and commit
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Lab Deliverables:
+lab-04.js
+package.json
+.gitignore
+### 1. lab-04.js
+[lab-04.js](lab-04.js)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 2. package.json
+[package.json](package.json)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sierrabakerr/cit281-lab4/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 3. .gitignore (screenshot)
+![.gitignore](gitignore.png)
