@@ -18,9 +18,9 @@ Part 6: Add a second route with query parameters, test, and commit
 
 
 ## Lab Deliverables:
-lab-04.js
-package.json
-.gitignore
+
+
+
 ### 1. lab-04.js
 [lab-04.js](lab-04.js)
 
