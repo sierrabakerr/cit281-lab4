@@ -21,11 +21,9 @@ Part 6: Add a second route with query parameters, test, and commit
 
 
 
-### 1. lab-04.js
-[lab-04.js](lab-04.js)
+### 1. [lab-04.js](lab-04.js)
 
-### 2. package.json
-[package.json](package.json)
+### 2. [package.json](package.json)
 
 ### 3. .gitignore (screenshot)
 ![.gitignore](gitignore.png)
